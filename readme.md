@@ -1,1 +1,1 @@
-# GitFlow Lab 5 - Feature Version
+# GitFlow Lab 5 - Conflict Version
